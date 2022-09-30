@@ -1,12 +1,12 @@
 var config = {
-  apiKey: "AIzaSyDVVWLah77CZOVjBqBweWbuPJpnhrHVg_Y",
-  authDomain: "portfolio-4bf1c.firebaseapp.com",
-  databaseURL: "https://portfolio-4bf1c-default-rtdb.firebaseio.com",
-  projectId: "portfolio-4bf1c",
-  storageBucket: "portfolio-4bf1c.appspot.com",
-  messagingSenderId: "296534124626",
-  appId: "1:296534124626:web:133b828c2ecffa7d4f978b",
-  measurementId: "G-EQ2J4C5ZGP"
+  apiKey: "AIzaSyCJg-eG7QH6yFZRlRA2hjMwiU1Sd8t6Puw",
+  authDomain: "kurudhiweb.firebaseapp.com",
+  databaseURL: "https://kurudhiweb-default-rtdb.firebaseio.com",
+  projectId: "kurudhiweb",
+  storageBucket: "kurudhiweb.appspot.com",
+  messagingSenderId: "993287986742",
+  appId: "1:993287986742:web:3f28546bc8f14e6d190297",
+  measurementId: "G-DVJ5PWQ84Z"
   };
   firebase.initializeApp(config);
 
