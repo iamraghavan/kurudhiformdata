@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "firebase": "^9.10.0"
-  }
+  },
+  // Dynamic Links will start with https://datakurudhi.netlify.app
+  "appAssociation": "AUTO",
+  "rewrites": [ { "source": "/**", "dynamicLinks": true } ]
 }
